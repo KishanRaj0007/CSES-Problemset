@@ -25,9 +25,9 @@
 
 ---
   5. ### Permutations
-   A permutation of integers 1,2,...,n is called beautiful if there are no adjacent elements whose difference is 1. Construct beautiful permutations.
-   Sol : Just construct array as 1,5,2,6,3,7,4,8... dpending on number of elements is even or odd. (Hint: First complete 1,2,3,..at alternate positions till last
-   then continue from second position alternatively).
+     A permutation of integers 1,2,...,n is called beautiful if there are no adjacent elements whose difference is 1. Construct beautiful permutations.
+     Sol : Just construct array as 1,5,2,6,3,7,4,8... dpending on number of elements is even or odd. (Hint: First complete 1,2,3,..at alternate positions till last
+     then continue from second position alternatively).
 ---
   6. 
 
