@@ -19,6 +19,10 @@
     }
 ---
 ### 4. Increasing Array-
-  ggbfd
+    (You want to modify the array so that it is increasing, i.e., every element is at least as large as the previous element. On each move, you may increase the value of any element by one. What is the minimum number of 
+     moves required?).
+    If a[i] is smaller than a[i-1] then increase a[i-1] till it becomes EQUAL to a[i] for minimum moves.
+---
+
 
 
