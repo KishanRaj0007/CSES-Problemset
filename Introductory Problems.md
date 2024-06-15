@@ -18,5 +18,7 @@
         }
     }
 ---
+### 4. Increasing Array-
+  ggbfd
 
 
