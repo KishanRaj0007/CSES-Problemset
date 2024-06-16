@@ -22,11 +22,13 @@
 4. ### Increasing Array-
     (You want to modify the array so that it is increasing, i.e., every element is at least as large as the previous element. On each move, you may increase the value of 
     any element by one. 
-    What is the minimum number of moves required?).
+    What is the minimum number of moves required?)?
+   
     If a[i] is smaller than a[i-1] then increase a[i-1] till it becomes EQUAL to a[i] for minimum moves.
 ---
 5. ### Permutations
-     A permutation of integers 1,2,...,n is called beautiful if there are no adjacent elements whose difference is 1. Construct beautiful permutations.
+     A permutation of integers 1,2,...,n is called beautiful if there are no adjacent elements whose difference is 1. Construct beautiful permutations:
+   
      Sol : Just construct array as 1,5,2,6,3,7,4,8... dpending on number of elements is even or odd. (Hint: First complete 1,2,3,..at alternate positions
      till last like 1, ,2, ,3, ,4then continue from second position alternatively like 1,5,2,6,3,7,4. This can be done by finding number which will ocuupy
      second position).
