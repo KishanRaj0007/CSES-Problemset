@@ -34,5 +34,6 @@
      till last like 1, ,2, ,3, ,4then continue from second position alternatively like 1,5,2,6,3,7,4. This can be done by finding number which will ocuupy
      second position).
 ---
-  6. 
+  6. creating strings - next_permutation(s.begin(), s.end()) rearranges the sequence to the next lexicographical permutation and returns true if such a permutation exists; otherwise, it returns false and rearranges the sequence to the smallest permutation.
+     If you want to generate all permutations of a sequence in lexicographical order, start with the sorted sequence and repeatedly call next_permutation.
 
